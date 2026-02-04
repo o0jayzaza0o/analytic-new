@@ -1,0 +1,14 @@
+# ไม่เอาไฟล์ขยะของ Python
+__pycache__/
+*.pyc
+
+# ไม่เอาไฟล์ Config ของ Mac/Windows
+.DS_Store
+Thumbs.db
+
+# ไม่เอาไฟล์ Virtual Environment (ถ้ามี)
+venv/
+env/
+
+# (ทางเลือก) ถ้าไม่อยากแจกไฟล์ CSV ข้อมูลข่าว ให้ใส่บรรทัดนี้ด้วย
+# *.csv
