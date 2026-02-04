@@ -22,9 +22,13 @@ It utilizes a Small Language Model (SLM) to extract public figures and evaluate 
 3.  **Clean:** Validate and sanitize JSON output (handle edge cases).
 4.  **Visualize:** Display trends on Streamlit dashboard.
 
+link:[drive](https://drive.google.com/file/d/1vzYkzs4ALSh13vpPYnG5bbAWBcwsRkx2/view?usp=sharing)
 ## 📂 Project Structure
 ```text
 ├── app.py                  # Streamlit Dashboard
-├── global_news_analysis.csv # Sample Data
-├── analysis_notebook.ipynb  # Colab Notebook (Source Code)
-└── README.md
+├── global_news_analysis.csv # Sample Data default
+├── ma_labeiei.ipynb  # Colab Notebook (Source Code) i upload on my drive
+├── README.md
+├── mysaved_model                 # it's zip model dont forget unzip i upload on my drive
+└── global_news_analysis002.csv # Sample Data
+
