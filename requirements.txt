@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+feedparser
+beautifulsoup4
+json_repair
