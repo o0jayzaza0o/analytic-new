@@ -29,6 +29,7 @@ link:[drive](https://drive.google.com/file/d/1vzYkzs4ALSh13vpPYnG5bbAWBcwsRkx2/v
 ├── global_news_analysis.csv # Sample Data default
 ├── ma_labeiei.ipynb  # Colab Notebook (Source Code) i upload on my drive
 ├── README.md
-├── mysaved_model                 # it's zip model dont forget unzip i upload on my drive
+├── mysaved_model                # it's zip model dont forget unzip i upload on my drive
+├── requirements.txt 
 └── global_news_analysis002.csv # Sample Data
 
